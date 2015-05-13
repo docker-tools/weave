@@ -5,6 +5,14 @@ layout: default
 
 ## How does it work?
 
+ * [Overview](#overview)
+ * [Encapsulation](#encapsulation)
+ * [Topology](#topology)
+ * [Crypto](#crypto)
+ * [Further reading](#further-reading)
+
+## Overview
+
 A weave network consists of a number of 'peers' - weave routers
 residing on different hosts. Each peer has a name, which tends to
 remain the same over restarts, a human friendly nickname for use in
@@ -404,6 +412,6 @@ nonce". The lifecycle of a nonce for UDP is:
    message cannot be correctly decoded, the message is not processed
    further.
 
-### Further reading
+### <a name="further-reading"></a>Further reading
 More details on the inner workings of weave can be found in the
 [architecture documentation](https://github.com/weaveworks/weave/blob/master/docs/architecture.txt).
