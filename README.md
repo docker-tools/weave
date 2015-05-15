@@ -131,12 +131,12 @@ to each other.
 
 ## Find out more
 
- * [Documentation homepage](http://weaveworks.github.io/weave/)
- * [Features](http://weaveworks.github.io/weave/features.html)
- * [Troubleshooting](http://weaveworks.github.io/weave/troubleshooting.html)
- * [Building](http://weaveworks.github.io/weave/building.html)
- * [How it works](http://weaveworks.github.io/weave/how-it-works.html)
- * [WeaveDNS README](https://github.com/weaveworks/weave/tree/master/weavedns#readme)
+ * [Documentation homepage](http://docs.weave.works/weave/latest_release/)
+ * [Features](http://docs.weave.works/weave/latest_release/features.html)
+ * [Troubleshooting](http://docs.weave.works/weave/latest_release/troubleshooting.html)
+ * [Building](http://docs.weave.works/weave/latest_release/building.html)
+ * [How it works](http://docs.weave.works/weave/latest_release/how-it-works.html)
+ * [Automatic Discovery with WeaveDNS](http://docs.weave.works/weave/latest_release/weavedns.html)
 
 ## Contact Us
 
